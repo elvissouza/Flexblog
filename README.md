@@ -26,11 +26,12 @@ Demonstração do projeto final (totalmente responsivo) abaixo:
 
 ###### Está com design responsivo com base de estudos em **Flexbox**  tentando adicionar o menor número de  
 *media Queries* possivel, há também algumas interações básicas como “click”, etc.  
-Blog feito em base de estudos e testes de funcionamento. Nenhum objetivo em ser comercial ou profissional.
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+Blog feito em base de estudos e testes de funcionamento. Nenhum objetivo em ser comercial ou profissional.  
+**OBS:** ```flex: 2 1 260px;``` evitar bugs em navegadores antigos/Safari
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 ---
 
-**Curso feito pela [Origamid](https://www.origamid.com/)**
+* > **Curso feito pela [Origamid](https://www.origamid.com/)**
 
 ---
