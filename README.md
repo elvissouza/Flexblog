@@ -10,14 +10,11 @@ Assim ficou fácil acompanhar 😄.
 
 Demonstração: [Clique Aqui](https://elvissouza.github.io/Flexblog/)
 
----
-
-Demonstração do projeto final (totalmente responsivo) abaixo:
-<img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexSite.gif?raw=true" width= "80%" height= "auto">
-
+### WebSite
+<img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexSite.gif?raw=true" width= "80%" height= "auto" align="center">
 
 ### Mobile Responsivo.
-<img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexMobile.gif?raw=true" width= "50%" height= "auto">
+<img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexMobile.gif?raw=true" width= "30%" height= "auto" align="center">
 
 Está com design responsivo com base de estudos em **Flexbox**  tentando adicionar o menor número de  
 *media Queries* possivel, há também algumas interações básicas como “click”, etc.  
@@ -28,4 +25,3 @@ Blog feito em base de estudos e testes de funcionamento. Nenhum objetivo em ser 
 
 * > **Curso feito pela [Origamid](https://www.origamid.com/)**
 O [Guia Completo de Flexbox](https://origamid.com/projetos/flexbox-guia-completo/) ajudou bastante para entender. os exemplos são claros e diretos.
----
