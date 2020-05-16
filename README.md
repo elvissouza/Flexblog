@@ -1,27 +1,28 @@
 # Curso sobre Flexbox e suas propriedades.
 
 ---
+Demo: [Click Here](https://elvissouza.github.io/Flexblog/)
 
-Prático com projeto de um **Blog** responsivo ao final do curso.   
-Na primeira sessão, há um guia que o professor explica detalhadamente as funções de modo prático e direto. 
-Assim ficou fácil acompanhar 😄. 
 
 ---
 
-Demonstração: [Clique Aqui](https://elvissouza.github.io/Flexblog/)
+This project of a responsive **Blog** held at end of the course.   
+In the first session, there is a guide that the teacher explains in detail in a practical and direct way. 
 
-### WebSite
+[Click here for show Guide](https://origamid.com/projetos/flexbox-guia-completo/) 😄. 
+
+### Web Site
 <img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexSite.gif?raw=true" width= "80%" height= "auto" align="center">
 
-### Mobile Responsivo.
+### Mobile Responsive.
 <img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexMobile.gif?raw=true" width= "30%" height= "auto" align="center">
 
-Está com design responsivo com base de estudos em **Flexbox**  tentando adicionar o menor número de  
-*media Queries* possivel, há também algumas interações básicas como “click”, etc.  
-Blog feito em base de estudos e testes de funcionamento. Nenhum objetivo em ser comercial ou profissional.  
-**OBS:** ```flex: 2 1 260px;``` evitar bugs em navegadores antigos/Safari
+
+It has a responsive design, based on the studies of the **Origamid-Flexbox** course, trying to add the least number of  
+*media Queries* possible, there are also some basic interactions like “click”, etc.  
+Project based on studies and functional tests. No goal in being commercial or professional. 
+**OBS:** ```flex: 2 1 260px;```avoid bugs in old browsers / Safari
 
 ---
 
-* > **Curso feito pela [Origamid](https://www.origamid.com/)**
-O [Guia Completo de Flexbox](https://origamid.com/projetos/flexbox-guia-completo/) ajudou bastante para entender. os exemplos são claros e diretos.
+* > **Course held in [Origamid](https://www.origamid.com/)**
