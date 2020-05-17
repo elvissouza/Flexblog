@@ -1,4 +1,4 @@
-# Curso sobre Flexbox e suas propriedades.
+# Course on Flexbox and its properties.
 
 ---
 **DEMO**: [Click Here](https://elvissouza.github.io/Flexblog/)
